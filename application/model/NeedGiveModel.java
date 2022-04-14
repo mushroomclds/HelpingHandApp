@@ -1,4 +1,4 @@
-//hno775 Mario Alday
+
 package application.model;
 
 import java.io.File;
